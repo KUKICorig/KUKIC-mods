@@ -1,0 +1,12 @@
+{
+  "name": "json-studio",
+  "displayName": "[accent]Mindustry JSON Studio[]",
+  "author": "KUKIC",
+  "description": "Студия разработки JSON-контента прямо в игре: редактор с диагностикой и автодополнением, база знаний по полям, калькулятор DPS по всем полям, шаблоны, файловый менеджер мода, применение контента в игру и ИИ-ассистент.",
+  "subtitle": "Редактор, валидатор, база знаний и DPS-калькулятор внутри Mindustry",
+  "version": "1.0.0",
+  "minGameVersion": "146",
+  "main": "kukic.studio.StudioMod",
+  "java": true,
+  "hidden": false
+}
